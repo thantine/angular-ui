@@ -10,7 +10,7 @@ cd demo-app
 
 ```
 npm install --save bootstrap
-npm install --save @thantine/thantine-angular-ui
+npm install --save @thantine/thantine-angular-ui@latest
 ```
 
 ## Add bootstrap to angular project by modifying the styles section in angular.json
